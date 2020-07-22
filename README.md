@@ -24,9 +24,9 @@ In this project, I will use VBA scripting to analyze real stock market data.
 
 ![stock Market](Images/stockmarket.jpg)
 
-## Instructions
+## Method
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+* Created a script that will loop through all the stocks for one year and output the following information.
 
   * The ticker symbol.
 
@@ -36,9 +36,9 @@ In this project, I will use VBA scripting to analyze real stock market data.
 
   * The total stock volume of the stock.
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
+* Includes conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
+* The results output as follows:
 
 ![moderate_solution](Images/moderate_solution.png)
 

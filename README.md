@@ -22,7 +22,9 @@ In this project, I will use VBA scripting to analyze real stock market data.
 
 ### Stock market analyst
 
-![stock Market](Images/stockmarket.jpg)
+![stock Market 2014](Images/2014_screenshot.png)
+![stock Market 2014](Images/2015_screenshot.png)
+![stock Market 2014](Images/2016_screenshot.png)
 
 ## Method
 
